@@ -3,7 +3,7 @@
 
 - Clone the repo
    ```
-   git clone https://github.com/haziq-danial/petakom-management-system.git
+   git clone https://github.com/HazmiHazim/PMS.git
    ```
 - Change directory
     ```
@@ -16,6 +16,8 @@
 - Install php & javascript libraries
     ```
     composer install
+    ```
+    ```
     npm install
     ```
 - Setup application
@@ -28,7 +30,7 @@
        ```
        php artisan migrate
        ```    
-    - Run seeder
+    - Run seeder (Optional)
         ```
         php artisan db:seed
         ```
