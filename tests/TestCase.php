@@ -9,5 +9,9 @@ abstract class TestCase extends BaseTestCase
     use CreatesApplication;
 }
 
+<<<<<<< Updated upstream
 
 summary?
+=======
+tulis php_sapi_name
+>>>>>>> Stashed changes
